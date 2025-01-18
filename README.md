@@ -68,16 +68,10 @@ NodeJs** - 📫 How to reach me:
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="Express (yellow)"
+      src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp"
+      alt="express"
       width="40"
       height="40"
-      style="
-        background-color: white;
-        padding: 5px;
-        border-radius: 5px;
-        filter: sepia(1) saturate(5) hue-rotate(0deg) brightness(0.8);
-      "
     />
   </a>
 
