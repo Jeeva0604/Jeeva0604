@@ -17,6 +17,15 @@
 
 ---
 
+## 🚀 My Published Packages
+
+| Package Name | Description | Pub Link |
+|-------------|-------------|----------|
+| **WhatsApp Text Formatter** | A Flutter package for formatting WhatsApp text with bold, italic, strikethrough, and monospace styles. | [whatsapp_text_formatter](https://pub.dev/packages/whatsapp_text_formatter) |
+| **Numeric UUID** | A Flutter package for generating UUIDs using numbers. | [numeric_uuid](https://pub.dev/packages/numeric_uuid) |
+
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/jeeva-g-r0628/" target="_blank">
