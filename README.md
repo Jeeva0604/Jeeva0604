@@ -7,22 +7,25 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeeva0604" alt="jeeva0604" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jeeva0604&theme=onedark" alt="jeeva0604" />
   </a> 
 </p>
 
 - 🌱 I’m currently learning **Serverpod**
 - 💬 Ask me about **Flutter and NodeJs**
-- 📫 How to reach me: [jeevajeeva060402@gmail.com](mailto:jeevajeeva060402@gmail.com)
+- 👯‍♂️ How to reach me: [jeevajeeva060402@gmail.com](mailto:jeevajeeva060402@gmail.com)
 
 ---
 
 ## 🚀 My Published Packages
 
-| Package Name | Description | Pub Link |
-|-------------|-------------|----------|
+| Package Name | Description | Pub/NPM Link |
+|-------------|-------------|-------------|
 | **WhatsApp Text Formatter** | A Flutter package for formatting WhatsApp text with bold, italic, strikethrough, and monospace styles. | [whatsapp_text_formatter](https://pub.dev/packages/whatsapp_text_formatter) |
-| **Numeric UUID** | A Flutter package for generating UUIDs using numbers. | [numeric_uuid](https://pub.dev/packages/numeric_uuid) |
+| **Numeric UUID (Flutter)** | A Flutter package for generating UUIDs using numbers. | [numeric_uuid](https://pub.dev/packages/numeric_uuid) |
+| **Full-Screen Image Viewer** | A Flutter package that provides a full-screen image viewer supporting AssetImage, NetworkImage, and MemoryImage with customizable features such as indicators, close buttons, swipe-to-dismiss, and more. | [image_viewer_pro](https://pub.dev/packages/image_viewer_pro) |
+| **Network to Memory Image** | A Flutter package to convert network images into `Uint8List` for efficient image manipulation. | [network_to_memory_image](https://pub.dev/packages/network_to_memory_image) |
+| **Numeric UUID (Node.js)** | A Node.js package for generating numeric UUIDs. | [numeric-uuid](https://www.npmjs.com/package/numeric-uuid) |
 
 ---
 
@@ -75,9 +78,22 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeeva0604&show_icons=true&locale=en" alt="Jeeva's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeeva0604&show_icons=true&locale=en&theme=radical" alt="Jeeva's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeeva0604&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
