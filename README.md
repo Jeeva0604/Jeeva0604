@@ -23,7 +23,7 @@
 |-------------|-------------|-------------|
 | **WhatsApp Text Formatter** | A Flutter package for formatting WhatsApp text with bold, italic, strikethrough, and monospace styles. | [whatsapp_text_formatter](https://pub.dev/packages/whatsapp_text_formatter) |
 | **Numeric UUID (Flutter)** | A Flutter package for generating UUIDs using numbers. | [numeric_uuid](https://pub.dev/packages/numeric_uuid) |
-| **Full-Screen Image Viewer** | A Flutter package that provides a full-screen image viewer supporting AssetImage, NetworkImage, and MemoryImage with customizable features such as indicators, close buttons, swipe-to-dismiss, and more. | [image_viewer_pro](https://pub.dev/packages/image_viewer_pro) |
+| **Image Viewer Pro** | A Flutter package that provides a full-screen image viewer supporting AssetImage, NetworkImage, and MemoryImage with customizable features such as indicators, close buttons, swipe-to-dismiss, and more. | [image_viewer_pro](https://pub.dev/packages/image_viewer_pro) |
 | **Network to Memory Image** | A Flutter package to convert network images into `Uint8List` for efficient image manipulation. | [network_to_memory_image](https://pub.dev/packages/network_to_memory_image) |
 | **Numeric UUID (Node.js)** | A Node.js package for generating numeric UUIDs. | [numeric-uuid](https://www.npmjs.com/package/numeric-uuid) |
 
