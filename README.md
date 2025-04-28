@@ -26,6 +26,7 @@
 | **Image Viewer Pro** | A Flutter package that provides a full-screen image viewer supporting AssetImage, NetworkImage, and MemoryImage with customizable features such as indicators, close buttons, swipe-to-dismiss, and more. | [image_viewer_pro](https://pub.dev/packages/image_viewer_pro) |
 | **Network to Memory Image** | A Flutter package to convert network images into `Uint8List` for efficient image manipulation. | [network_to_memory_image](https://pub.dev/packages/network_to_memory_image) |
 | **Numeric UUID (Node.js)** | A Node.js package for generating numeric UUIDs. | [numeric-uuid](https://www.npmjs.com/package/numeric-uuid) |
+| **Timer Smooth Page Indicator** | A Flutter package for smooth page indicators with timer functionality, providing a highly customizable page indicator with smooth animations. | [timer_smooth_page_indicator](https://pub.dev/packages/timer_smooth_page_indicator) |
 
 ---
 
