@@ -75,8 +75,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeeva0604&theme=radical" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Jeeva0604/Jeeva0604/output/github-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
 ---
@@ -85,14 +89,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeva0604/Jeeva0604/output/github-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
 ---
