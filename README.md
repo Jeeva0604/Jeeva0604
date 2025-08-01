@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeeva G</h1>
+<h1 align="center">Hi 👋, I'm Jeeva</h1>
 <h3 align="center">A passionate Flutter and Node.js developer from Tamil Nadu, India 🇮🇳</h3>
 
 <p align="center">
