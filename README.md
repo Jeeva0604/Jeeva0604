@@ -68,10 +68,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeeva0604&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
