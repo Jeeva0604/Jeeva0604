@@ -80,7 +80,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeeva0604/Jeeva0604/output/github-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/Jeeva0604/Jeeva0604/output/github-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
