@@ -1,28 +1,28 @@
 <h1 align="center">Hi 👋, I'm Jeeva G</h1>
-<h3 align="center">A passionate Flutter and Node.js developer from Tamil Nadu, India 🇮🇳</h3>
+<h3 align="center">A passionate Flutter & Node.js developer from Tamil Nadu, India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeeva0604&label=Profile%20views&color=0e75b6&style=flat" alt="jeeva0604" />
+  <img src="https://komarev.com/ghpvc/?username=jeeva0604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeeva0604&theme=onedark" alt="jeeva0604" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jeeva0604&theme=onedark&margin-w=10&margin-h=10" alt="Trophies" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me  
 
-- 🔭 I’m currently working on full-stack mobile/web apps  
-- 🌱 I’m currently learning **Serverpod**  
+- 🔭 Currently working on **full-stack mobile/web apps**  
+- 🌱 Learning **Serverpod**  
 - 💬 Ask me about: **Flutter, Node.js, Firebase, PostgreSQL**  
 - 📫 Reach me at: [jeevajeeva060402@gmail.com](mailto:jeevajeeva060402@gmail.com)  
 
 ---
 
-### 📦 My Published Packages
+## 📦 My Published Packages  
 
 | Package Name | Description | Link |
 |--------------|-------------|------|
@@ -35,37 +35,47 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/jeeva-g-r0628/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/jeeva_r45/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="Express" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;"/>
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Knex.js-someColor?style=for-the-badge&logo=knex.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter%20Hive-FCCD00?style=for-the-badge&logo=hive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter_Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-7B1FA2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobX-E95420?style=for-the-badge&logo=mobx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bloc-009688?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -73,7 +83,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jeeva0604/Jeeva0604/output/github-snake-dark.svg" alt="GitHub Snake" />
@@ -81,10 +91,8 @@
 
 ---
 
-### 🧠 Random Dev Quote
+## 🧠 Random Dev Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-
----
