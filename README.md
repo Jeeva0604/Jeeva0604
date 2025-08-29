@@ -38,6 +38,9 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
+  <a href="https://dev-jeeva.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/jeeva-g-r0628/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
