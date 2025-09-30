@@ -20,7 +20,7 @@
 - 🔭 Currently working on **full-stack mobile/web apps**  
 - 🌱 Learning **Serverpod**  
 - 💬 Ask me about: **Flutter, Node.js, Firebase, PostgreSQL**  
-- 📫 Reach me at: [jeevajeeva060402@gmail.com](mailto:jeevajeeva060402@gmail.com)  
+- 📫 Reach me at: [jeevajeeva060402@gmail.com](mailto:jeevar0628@gmail.com)  
 
 ---
 
