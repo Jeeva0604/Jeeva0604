@@ -19,7 +19,6 @@
 ## 🚀 About Me  
 
 - 🔭 Currently working on **full-stack mobile/web apps**  
-- 🌱 Learning **Serverpod**  
 - 💬 Ask me about: **Flutter, Node.js, Firebase, PostgreSQL**  
 - 📫 Reach me at: [jeevar0628@gmail.com](mailto:jeevar0628@gmail.com)  
 
