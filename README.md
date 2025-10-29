@@ -82,7 +82,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Streak Stats 
 
 <div align="center">
 
@@ -90,17 +90,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeeva0604&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180" />
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeva0604&theme=radical" alt="" />
 
 </div>
 
 ---
 
 
-## 🔥 GitHub Streak Stats  
+## 🔥 Most Used Languages 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeva0604&theme=radical" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180" />
+
 </p>
 
 ---
