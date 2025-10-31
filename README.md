@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeeva G</h1>
-<h3 align="center">A passionate Flutter & Node.js developer from Tamil Nadu, India 🇮🇳</h3>
+<h3 align="center">A passionate Full-Stack Developer specializing in Flutter and Node.js from Tamil Nadu, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeeva0604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
