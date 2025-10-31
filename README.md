@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeeva0604&color=red&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Jeeva G</h1>
 <h3 align="center">A passionate Full-Stack Developer specializing in Flutter and Node.js from Tamil Nadu, India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeeva0604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -84,13 +84,13 @@
 ## 📊 GitHub Streak Stats 
 
 <div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeva0604&theme=radical" alt="" />
 
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jeeva0604&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
 
-  <!-- Top Languages -->
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeva0604&theme=radical" alt="" />
 
 </div>
 
