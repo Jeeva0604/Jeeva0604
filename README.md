@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jeeva0604&color=red&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jeeva Gggggggggggggg</h1>
+<h1 align="center">Hi 👋, I'm Jeeva Ggggggggggggg</h1>
 <h3 align="center">A passionate Full-Stack Developer specializing in Flutter and Node.js from Tamil Nadu, India 🇮🇳</h3>
 
 ---
