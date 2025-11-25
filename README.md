@@ -88,7 +88,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeeva0604&theme=radical" alt="" />
 
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jeeva0604&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeeva0604&show_icons=true&theme=radical" alt="" height="180" />
 
     
 
