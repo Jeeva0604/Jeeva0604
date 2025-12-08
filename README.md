@@ -101,7 +101,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva0604&show_icons=true&locale=en&layout=compact&theme=radical" alt="" height="180" />
 
 </p>
 
